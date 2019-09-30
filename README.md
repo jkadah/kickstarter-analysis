@@ -6,5 +6,5 @@ UCB Extension M1 challenge
 ![otucomesbasedongoal_M1](https://user-images.githubusercontent.com/55964175/65843888-cb24fe00-e2e8-11e9-9598-c0c895dc20f9.png)
 - Many kickstarter campaigns were unsuccessful until 2013 and then had a decline again in 2017. However, that does not mean it cannot succeed now. As you can tell from the line graph, the success fluctuates and there is still a good amount that succeeds. 
 - This is evident in the graph below. 
-- ![Outcomes based on Launch Date](/images/outcomesbasedonlaunchdate_M1.png)
+![outcomesbasedonlaunchdate_M1](https://user-images.githubusercontent.com/55964175/65843889-cb24fe00-e2e8-11e9-8ded-859ea0a8a417.png)
 ### Challenge 1 
